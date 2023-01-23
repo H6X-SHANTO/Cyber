@@ -20,17 +20,17 @@ logo = ("""\033[132m
 \033[1;32m╔══════════════════════════════════╗╔══════════════════════╗
 \033[1;32m║NOTE : \033[37;41mTHIS TOOLS IS FREE\033[0;m\033[1;32m         ║║        \x1b[1;91m___T_\033[1;32m         ║
 \033[1;32m║══════════════════════════════════║║       \x1b[1;91m| o o |\033[1;32m        ║
-\033[1;32m║AUTHOR    : Mr. SHIHAB            ║║       \x1b[1;91m|__-__|\033[1;32m        ║
+\033[1;32m║AUTHOR    : Mr. SHANTO            ║║       \x1b[1;91m|__-__|\033[1;32m        ║
 \033[1;32m║══════════════════════════════════║║       \x1b[1;91m/| []|'\033[1;32m        ║
 \033[1;32m║WHATSAPP  : +19376068835          ║║     \x1b[1;91m()/|___|\()\033[1;32m      ║
 \033[1;32m║══════════════════════════════════║║        \x1b[1;91m|_|_|\033[1;32m         ║
-\033[1;32m║GITHUB    : Mr-Shihab-Vau         ║║       \x1b[1;91m|_| |_|\033[1;32m        ║
+\033[1;32m║GITHUB    :HEXA-SHANTO       ║║       \x1b[1;91m|_| |_|\033[1;32m        ║
 \033[1;32m║══════════════════════════════════║║                      ║
 \033[1;32m║SERVER    : DATA - WIFI WORKING   ║╚══════════════════════╝
 \033[1;32m║══════════════════════════════════════════════════════════╗
-\033[1;32m║FACEBOOK LINK : \x1b[1;91mhttps://www.facebook.com/Mr.C.E.O.SHIHAB\033[1;32m  ║
+\033[1;32m║FACEBOOK LINK : \x1b[1;91mhttps://www.facebook.com/profile.php?id=100000578692803\033[1;32m  ║
 \033[1;32m║══════════════════════════════════════════════════════════║
-\033[1;32m║FB PAGE LINK  : \x1b[1;91mhttps://www.facebook.com/Mr.SHIHAB.VAU\033[1;32m    ║
+\033[1;32m║FB PAGE LINK  : \x1b[1;91mhttps://www.facebook.com/profile.php?id=100000578692803\033[1;32m    ║
 \033[1;32m╚══════════════════════════════════════════════════════════╝\033[1;37m""")
 def ud():
     os.system('clear')
@@ -52,7 +52,7 @@ def FD():
     print(' [2] EXIT')
     opt = input('\n  \x1b[1;32m Choose option >>> ')
     if opt == '1':
-        os.system('xdg-open https://www.facebook.com/Mr.SHIHAB.VAU/')
+        os.system('x open https://www.facebook.com/profile.php?id=100089737861231')
         o()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
