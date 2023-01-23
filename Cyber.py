@@ -28,18 +28,18 @@ logo = ("""\033[132m
 \033[1;32m║══════════════════════════════════║║                      ║
 \033[1;32m║SERVER    : DATA - WIFI WORKING   ║╚══════════════════════╝
 \033[1;32m║══════════════════════════════════════════════════════════╗
-\033[1;32m║FACEBOOK LINK : \x1b[1;91mhttps://www.facebook.com/profile.php?id=100000578692803\033[1;32m  ║
+\033[1;32m║FACEBOOK LINK : \x1b[1;91mhttps://www.facebook.com/profile.php?id=100000578692803\033[1;32m║
 \033[1;32m║══════════════════════════════════════════════════════════║
-\033[1;32m║FB PAGE LINK  : \x1b[1;91mhttps://www.facebook.com/profile.php?id=100000578692803\033[1;32m    ║
+\033[1;32m║FB PAGE LINK  : \x1b[1;91mhttps://www.facebook.com/profile.php?id=100000578692803\033[1;32m║
 \033[1;32m╚══════════════════════════════════════════════════════════╝\033[1;37m""")
 def ud():
     os.system('clear')
     jalan(logo)
-    print(' \033[1;32m[1] SUBSCRIBE MY CHANNEL')
+    print(' \033[1;32m[1] FOLLOW MY PAGE')
     print(' [2] EXIT')
     opt = input('\n   Choose option >>>\033[1;37m ')
     if opt == '1':
-        os.system('xdg-open https://youtube.com/channel/UCZPfRKcIH9Wf_sOZqb35FGQ')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100089737861231')
         FD()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
